@@ -22,9 +22,6 @@ This project implements a simplified AMBA AHB-Lite master and slave using Verilo
 - Verilog
 - SystemVerilog
 
-## Current Status
-RTL and testbench development are in progress. Simulation results will be added after successful compilation and verification.
-
 ## Future Improvements
 - Add wait-state testing
 - Add error-response testing
